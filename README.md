@@ -38,7 +38,9 @@ You can try the game live here: **https://labhesh167.github.io/Guess-Number-Game
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/1b463588-6f9e-4c42-a554-89ce073671d8)
+ ![image](https://github.com/user-attachments/assets/13539238-6c06-4c7c-ad30-e8cb2a792585)
+
+ ![image](https://github.com/user-attachments/assets/3e56bd7f-1592-400a-babf-bd092a115f9a)
 
 
 ## ✉️ Contact
